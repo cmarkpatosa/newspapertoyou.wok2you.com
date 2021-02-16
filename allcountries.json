@@ -63,7 +63,7 @@
         "cioc": "AFG"
     },
     {
-        "name": "Åland Islands",
+        "name": "Aland Islands",
         "topLevelDomain": [".ax"],
         "alpha2Code": "AX",
         "alpha3Code": "ALA",
@@ -5786,7 +5786,7 @@
         "cioc": "CIV"
     },
     {
-        "name": "Iran (Islamic Republic of)",
+        "name": "Iran",
         "topLevelDomain": [".ir"],
         "alpha2Code": "IR",
         "alpha3Code": "IRN",
